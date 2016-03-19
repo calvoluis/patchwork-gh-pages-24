@@ -3,7 +3,7 @@ title: Luis' Profile
 email: notfakemail@superreal.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm learning to use GitHub pages with Wheelhouse.io and Patchwork!
-baseurl: "calvoluis/patchwork-gh-pages-24"
+baseurl: "/calvoluis"
 url: "http://calvoluis.github.io"
 twitter_username: WheelhouseIO
 github_username:  wheelhouseio
